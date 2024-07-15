@@ -13,3 +13,5 @@ Em resumo, nosso objetivo com este challenge é implementar uma API REST com as 
 3.Implementação de uma base de dados relacional para a persistência da informação;
 
 4.Serviço de autenticação/autorização para restringir o acesso à informação.
+
+![Badge](/Badge-Spring.png)
